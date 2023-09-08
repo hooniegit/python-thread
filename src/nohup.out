@@ -1,0 +1,930 @@
+mysql connection pool created
+start thread : 1991-09-27 >>>>>>
+start thread : 1991-10-04 >>>>>>
+start thread : 1991-10-11 >>>>>>
+start thread : 1991-10-18 >>>>>>
+start thread : 1991-10-25 >>>>>>
+start thread : 1991-11-01 >>>>>>
+start thread : 1991-11-08 >>>>>>
+start thread : 1991-11-15 >>>>>>
+start thread : 1991-11-22 >>>>>>
+start thread : 1991-11-29 >>>>>>
+1169
+1192
+1342
+1031
+1498
+1381
+1494
+2032
+1227
+<<<<<< end thread : 1991-11-22
+1611
+<<<<<< end thread : 1991-10-25
+<<<<<< end thread : 1991-11-15
+<<<<<< end thread : 1991-11-08
+<<<<<< end thread : 1991-10-11
+<<<<<< end thread : 1991-10-04
+<<<<<< end thread : 1991-10-18
+<<<<<< end thread : 1991-11-29
+<<<<<< end thread : 1991-09-27
+<<<<<< end thread : 1991-11-01
+mysql connection pool created
+start thread : 1991-12-06 >>>>>>
+start thread : 1991-12-13 >>>>>>
+start thread : 1991-12-20 >>>>>>
+start thread : 1991-12-27 >>>>>>
+start thread : 1992-01-03 >>>>>>
+start thread : 1992-01-10 >>>>>>
+start thread : 1992-01-17 >>>>>>
+start thread : 1992-01-24 >>>>>>
+start thread : 1992-01-31 >>>>>>
+start thread : 1992-02-07 >>>>>>
+751
+779
+863
+<<<<<< end thread : 1992-01-17
+1089
+1155
+1246
+843
+<<<<<< end thread : 1992-02-07
+2055
+<<<<<< end thread : 1992-01-24
+<<<<<< end thread : 1992-01-03
+1258
+<<<<<< end thread : 1992-01-10
+<<<<<< end thread : 1991-12-06
+<<<<<< end thread : 1991-12-13
+<<<<<< end thread : 1992-01-31
+<<<<<< end thread : 1991-12-20
+12699
+<<<<<< end thread : 1991-12-27
+mysql connection pool created
+start thread : 1992-02-14 >>>>>>
+start thread : 1992-02-21 >>>>>>
+start thread : 1992-02-28 >>>>>>
+start thread : 1992-03-06 >>>>>>
+start thread : 1992-03-13 >>>>>>
+start thread : 1992-03-20 >>>>>>
+start thread : 1992-03-27 >>>>>>
+start thread : 1992-04-03 >>>>>>
+start thread : 1992-04-10 >>>>>>
+start thread : 1992-04-17 >>>>>>
+1181
+1170
+1045
+1296
+1280
+1501
+1392
+1370
+<<<<<< end thread : 1992-02-21
+1509
+1225
+<<<<<< end thread : 1992-03-06
+<<<<<< end thread : 1992-03-20
+<<<<<< end thread : 1992-04-10
+<<<<<< end thread : 1992-03-13
+<<<<<< end thread : 1992-03-27
+<<<<<< end thread : 1992-02-14
+<<<<<< end thread : 1992-02-28
+<<<<<< end thread : 1992-04-17
+<<<<<< end thread : 1992-04-03
+mysql connection pool created
+start thread : 1992-04-24 >>>>>>
+start thread : 1992-05-01 >>>>>>
+start thread : 1992-05-08 >>>>>>
+start thread : 1992-05-15 >>>>>>
+start thread : 1992-05-22 >>>>>>
+start thread : 1992-05-29 >>>>>>
+start thread : 1992-06-05 >>>>>>
+start thread : 1992-06-12 >>>>>>
+start thread : 1992-06-19 >>>>>>
+start thread : 1992-06-26 >>>>>>
+768
+1130
+1096
+<<<<<< end thread : 1992-06-19
+1619
+983
+1394
+<<<<<< end thread : 1992-05-08
+1222
+1479
+1253
+<<<<<< end thread : 1992-06-12
+1352
+<<<<<< end thread : 1992-04-24
+<<<<<< end thread : 1992-05-15
+<<<<<< end thread : 1992-05-22
+<<<<<< end thread : 1992-06-05
+<<<<<< end thread : 1992-06-26
+<<<<<< end thread : 1992-05-01
+<<<<<< end thread : 1992-05-29
+mysql connection pool created
+start thread : 1992-07-03 >>>>>>
+start thread : 1992-07-10 >>>>>>
+start thread : 1992-07-17 >>>>>>
+start thread : 1992-07-24 >>>>>>
+start thread : 1992-07-31 >>>>>>
+start thread : 1992-08-07 >>>>>>
+start thread : 1992-08-14 >>>>>>
+start thread : 1992-08-21 >>>>>>
+start thread : 1992-08-28 >>>>>>
+start thread : 1992-09-04 >>>>>>
+722
+<<<<<< end thread : 1992-07-24
+1409
+613
+939
+861
+1204
+903
+1167
+<<<<<< end thread : 1992-07-03
+1469
+<<<<<< end thread : 1992-07-17
+<<<<<< end thread : 1992-08-21
+1806
+<<<<<< end thread : 1992-08-07
+<<<<<< end thread : 1992-07-31
+<<<<<< end thread : 1992-08-14
+<<<<<< end thread : 1992-07-10
+<<<<<< end thread : 1992-09-04
+<<<<<< end thread : 1992-08-28
+mysql connection pool created
+start thread : 1992-09-11 >>>>>>
+start thread : 1992-09-18 >>>>>>
+start thread : 1992-09-25 >>>>>>
+start thread : 1992-10-02 >>>>>>
+start thread : 1992-10-09 >>>>>>
+start thread : 1992-10-16 >>>>>>
+start thread : 1992-10-23 >>>>>>
+start thread : 1992-10-30 >>>>>>
+start thread : 1992-11-06 >>>>>>
+start thread : 1992-11-13 >>>>>>
+916
+<<<<<< end thread : 1992-10-16
+1385
+1694
+1237
+1508
+1601
+1146
+1528
+1791
+2182
+<<<<<< end thread : 1992-10-02
+<<<<<< end thread : 1992-10-23
+<<<<<< end thread : 1992-11-06
+<<<<<< end thread : 1992-11-13
+<<<<<< end thread : 1992-10-09
+<<<<<< end thread : 1992-09-18
+<<<<<< end thread : 1992-10-30
+<<<<<< end thread : 1992-09-25
+<<<<<< end thread : 1992-09-11
+mysql connection pool created
+start thread : 1992-11-20 >>>>>>
+start thread : 1992-11-27 >>>>>>
+start thread : 1992-12-04 >>>>>>
+start thread : 1992-12-11 >>>>>>
+start thread : 1992-12-18 >>>>>>
+start thread : 1992-12-25 >>>>>>
+start thread : 1993-01-01 >>>>>>
+start thread : 1993-01-08 >>>>>>
+start thread : 1993-01-15 >>>>>>
+start thread : 1993-01-22 >>>>>>
+847
+862
+1175
+1153
+1551
+1515
+1128
+<<<<<< end thread : 1993-01-22
+<<<<<< end thread : 1993-01-08
+1117
+<<<<<< end thread : 1993-01-15
+<<<<<< end thread : 1992-12-18
+<<<<<< end thread : 1992-12-11
+<<<<<< end thread : 1992-12-04
+<<<<<< end thread : 1992-11-20
+<<<<<< end thread : 1992-11-27
+1599
+<<<<<< end thread : 1992-12-25
+11407
+<<<<<< end thread : 1993-01-01
+mysql connection pool created
+start thread : 1993-01-29 >>>>>>
+start thread : 1993-02-05 >>>>>>
+start thread : 1993-02-12 >>>>>>
+start thread : 1993-02-19 >>>>>>
+start thread : 1993-02-26 >>>>>>
+start thread : 1993-03-05 >>>>>>
+start thread : 1993-03-12 >>>>>>
+start thread : 1993-03-19 >>>>>>
+start thread : 1993-03-26 >>>>>>
+start thread : 1993-04-02 >>>>>>
+1136
+1022
+1086
+894
+1388
+1113
+1729
+1394
+1294
+1482
+<<<<<< end thread : 1993-03-05
+<<<<<< end thread : 1993-02-05
+<<<<<< end thread : 1993-02-12
+<<<<<< end thread : 1993-02-19
+<<<<<< end thread : 1993-03-12
+<<<<<< end thread : 1993-03-19
+<<<<<< end thread : 1993-03-26
+<<<<<< end thread : 1993-01-29
+<<<<<< end thread : 1993-04-02
+<<<<<< end thread : 1993-02-26
+mysql connection pool created
+start thread : 1993-04-09 >>>>>>
+start thread : 1993-04-16 >>>>>>
+start thread : 1993-04-23 >>>>>>
+start thread : 1993-04-30 >>>>>>
+start thread : 1993-05-07 >>>>>>
+start thread : 1993-05-14 >>>>>>
+start thread : 1993-05-21 >>>>>>
+start thread : 1993-05-28 >>>>>>
+start thread : 1993-06-04 >>>>>>
+start thread : 1993-06-11 >>>>>>
+791
+1101
+1272
+909
+1180
+<<<<<< end thread : 1993-04-09
+1290
+1412
+<<<<<< end thread : 1993-04-16
+1572
+<<<<<< end thread : 1993-06-11
+<<<<<< end thread : 1993-04-23
+<<<<<< end thread : 1993-05-07
+1841
+1848
+<<<<<< end thread : 1993-05-14
+<<<<<< end thread : 1993-05-21
+<<<<<< end thread : 1993-06-04
+<<<<<< end thread : 1993-04-30
+<<<<<< end thread : 1993-05-28
+mysql connection pool created
+start thread : 1993-06-18 >>>>>>
+start thread : 1993-06-25 >>>>>>
+start thread : 1993-07-02 >>>>>>
+start thread : 1993-07-09 >>>>>>
+start thread : 1993-07-16 >>>>>>
+start thread : 1993-07-23 >>>>>>
+start thread : 1993-07-30 >>>>>>
+start thread : 1993-08-06 >>>>>>
+start thread : 1993-08-13 >>>>>>
+start thread : 1993-08-20 >>>>>>
+1067
+989
+896
+1077
+1359
+840
+999
+1161
+828
+<<<<<< end thread : 1993-08-20
+<<<<<< end thread : 1993-07-16
+<<<<<< end thread : 1993-07-23
+1279
+<<<<<< end thread : 1993-08-13
+<<<<<< end thread : 1993-07-02
+<<<<<< end thread : 1993-07-30
+<<<<<< end thread : 1993-07-09
+<<<<<< end thread : 1993-08-06
+<<<<<< end thread : 1993-06-18
+<<<<<< end thread : 1993-06-25
+mysql connection pool created
+start thread : 1993-08-27 >>>>>>
+start thread : 1993-09-03 >>>>>>
+start thread : 1993-09-10 >>>>>>
+start thread : 1993-09-17 >>>>>>
+start thread : 1993-09-24 >>>>>>
+start thread : 1993-10-01 >>>>>>
+start thread : 1993-10-08 >>>>>>
+start thread : 1993-10-15 >>>>>>
+start thread : 1993-10-22 >>>>>>
+start thread : 1993-10-29 >>>>>>
+1140
+1156
+1421
+1463
+<<<<<< end thread : 1993-10-15
+<<<<<< end thread : 1993-09-03
+1887
+1533
+1186
+1384
+<<<<<< end thread : 1993-09-17
+1777
+2352
+<<<<<< end thread : 1993-09-24
+<<<<<< end thread : 1993-08-27
+<<<<<< end thread : 1993-10-22
+<<<<<< end thread : 1993-10-29
+<<<<<< end thread : 1993-10-08
+<<<<<< end thread : 1993-10-01
+<<<<<< end thread : 1993-09-10
+mysql connection pool created
+start thread : 1993-11-05 >>>>>>
+start thread : 1993-11-12 >>>>>>
+start thread : 1993-11-19 >>>>>>
+start thread : 1993-11-26 >>>>>>
+start thread : 1993-12-03 >>>>>>
+start thread : 1993-12-10 >>>>>>
+start thread : 1993-12-17 >>>>>>
+start thread : 1993-12-24 >>>>>>
+start thread : 1993-12-31 >>>>>>
+start thread : 1994-01-07 >>>>>>
+1371
+882
+1183
+1408
+1612
+1679
+1360
+1381
+1428
+<<<<<< end thread : 1994-01-07
+<<<<<< end thread : 1993-12-17
+<<<<<< end thread : 1993-12-03
+<<<<<< end thread : 1993-11-05
+<<<<<< end thread : 1993-12-24
+<<<<<< end thread : 1993-11-12
+<<<<<< end thread : 1993-12-10
+<<<<<< end thread : 1993-11-19
+<<<<<< end thread : 1993-11-26
+12062
+<<<<<< end thread : 1993-12-31
+mysql connection pool created
+start thread : 1994-01-14 >>>>>>
+start thread : 1994-01-21 >>>>>>
+start thread : 1994-01-28 >>>>>>
+start thread : 1994-02-04 >>>>>>
+start thread : 1994-02-11 >>>>>>
+start thread : 1994-02-18 >>>>>>
+start thread : 1994-02-25 >>>>>>
+start thread : 1994-03-04 >>>>>>
+start thread : 1994-03-11 >>>>>>
+start thread : 1994-03-18 >>>>>>
+1028
+1035
+1520
+1499
+1513
+1512
+1169
+902
+1363
+<<<<<< end thread : 1994-02-18
+1271
+<<<<<< end thread : 1994-01-21
+<<<<<< end thread : 1994-02-11
+<<<<<< end thread : 1994-02-25
+<<<<<< end thread : 1994-03-18
+<<<<<< end thread : 1994-03-11
+<<<<<< end thread : 1994-03-04
+<<<<<< end thread : 1994-01-14
+<<<<<< end thread : 1994-01-28
+<<<<<< end thread : 1994-02-04
+mysql connection pool created
+start thread : 1994-03-25 >>>>>>
+start thread : 1994-04-01 >>>>>>
+start thread : 1994-04-08 >>>>>>
+start thread : 1994-04-15 >>>>>>
+start thread : 1994-04-22 >>>>>>
+start thread : 1994-04-29 >>>>>>
+start thread : 1994-05-06 >>>>>>
+start thread : 1994-05-13 >>>>>>
+start thread : 1994-05-20 >>>>>>
+start thread : 1994-05-27 >>>>>>
+1385
+1632
+1675
+1045
+1296
+1553
+1274
+1859
+1744
+1191
+<<<<<< end thread : 1994-03-25
+<<<<<< end thread : 1994-04-22
+<<<<<< end thread : 1994-05-13
+<<<<<< end thread : 1994-04-15
+<<<<<< end thread : 1994-05-20
+<<<<<< end thread : 1994-05-27
+<<<<<< end thread : 1994-05-06
+<<<<<< end thread : 1994-04-01
+<<<<<< end thread : 1994-04-29
+<<<<<< end thread : 1994-04-08
+mysql connection pool created
+start thread : 1994-06-03 >>>>>>
+start thread : 1994-06-10 >>>>>>
+start thread : 1994-06-17 >>>>>>
+start thread : 1994-06-24 >>>>>>
+start thread : 1994-07-01 >>>>>>
+start thread : 1994-07-08 >>>>>>
+start thread : 1994-07-15 >>>>>>
+start thread : 1994-07-22 >>>>>>
+start thread : 1994-07-29 >>>>>>
+start thread : 1994-08-05 >>>>>>
+1103
+910
+1171
+1329
+1169
+905
+1495
+1288
+<<<<<< end thread : 1994-06-24
+1063
+<<<<<< end thread : 1994-08-05
+1739
+<<<<<< end thread : 1994-07-22
+<<<<<< end thread : 1994-07-08
+<<<<<< end thread : 1994-07-15
+<<<<<< end thread : 1994-06-17
+<<<<<< end thread : 1994-06-10
+<<<<<< end thread : 1994-07-29
+<<<<<< end thread : 1994-07-01
+<<<<<< end thread : 1994-06-03
+mysql connection pool created
+start thread : 1994-08-12 >>>>>>
+start thread : 1994-08-19 >>>>>>
+start thread : 1994-08-26 >>>>>>
+start thread : 1994-09-02 >>>>>>
+start thread : 1994-09-09 >>>>>>
+start thread : 1994-09-16 >>>>>>
+start thread : 1994-09-23 >>>>>>
+start thread : 1994-09-30 >>>>>>
+start thread : 1994-10-07 >>>>>>
+start thread : 1994-10-14 >>>>>>
+1415
+994
+1034
+1050
+1788
+1540
+1630
+1070
+<<<<<< end thread : 1994-08-19
+<<<<<< end thread : 1994-09-02
+2032
+<<<<<< end thread : 1994-08-12
+<<<<<< end thread : 1994-10-07
+<<<<<< end thread : 1994-08-26
+2042
+<<<<<< end thread : 1994-10-14
+<<<<<< end thread : 1994-09-23
+<<<<<< end thread : 1994-09-16
+<<<<<< end thread : 1994-09-09
+<<<<<< end thread : 1994-09-30
+mysql connection pool created
+start thread : 1994-10-21 >>>>>>
+start thread : 1994-10-28 >>>>>>
+start thread : 1994-11-04 >>>>>>
+start thread : 1994-11-11 >>>>>>
+start thread : 1994-11-18 >>>>>>
+start thread : 1994-11-25 >>>>>>
+start thread : 1994-12-02 >>>>>>
+start thread : 1994-12-09 >>>>>>
+start thread : 1994-12-16 >>>>>>
+start thread : 1994-12-23 >>>>>>
+1385
+1152
+1051
+1510
+1313
+1436
+1933
+2025
+<<<<<< end thread : 1994-12-02
+<<<<<< end thread : 1994-12-23
+1941
+1319
+<<<<<< end thread : 1994-11-11
+<<<<<< end thread : 1994-11-04
+<<<<<< end thread : 1994-12-09
+<<<<<< end thread : 1994-10-21
+<<<<<< end thread : 1994-11-25
+<<<<<< end thread : 1994-11-18
+<<<<<< end thread : 1994-12-16
+<<<<<< end thread : 1994-10-28
+mysql connection pool created
+start thread : 1994-12-30 >>>>>>
+start thread : 1995-01-06 >>>>>>
+start thread : 1995-01-13 >>>>>>
+start thread : 1995-01-20 >>>>>>
+start thread : 1995-01-27 >>>>>>
+start thread : 1995-02-03 >>>>>>
+start thread : 1995-02-10 >>>>>>
+start thread : 1995-02-17 >>>>>>
+start thread : 1995-02-24 >>>>>>
+start thread : 1995-03-03 >>>>>>
+1030
+1266
+974
+903
+1089
+1269
+1498
+1308
+1293
+<<<<<< end thread : 1995-02-17
+<<<<<< end thread : 1995-02-03
+<<<<<< end thread : 1995-01-13
+<<<<<< end thread : 1995-02-10
+<<<<<< end thread : 1995-01-20
+<<<<<< end thread : 1995-02-24
+<<<<<< end thread : 1995-03-03
+<<<<<< end thread : 1995-01-06
+<<<<<< end thread : 1995-01-27
+12148
+<<<<<< end thread : 1994-12-30
+mysql connection pool created
+start thread : 1995-03-10 >>>>>>
+start thread : 1995-03-17 >>>>>>
+start thread : 1995-03-24 >>>>>>
+start thread : 1995-03-31 >>>>>>
+start thread : 1995-04-07 >>>>>>
+start thread : 1995-04-14 >>>>>>
+start thread : 1995-04-21 >>>>>>
+start thread : 1995-04-28 >>>>>>
+start thread : 1995-05-05 >>>>>>
+start thread : 1995-05-12 >>>>>>
+1040
+978
+1068
+1245
+1767
+1488
+1606
+1411
+1477
+1970
+<<<<<< end thread : 1995-03-17
+<<<<<< end thread : 1995-04-14
+<<<<<< end thread : 1995-03-24
+<<<<<< end thread : 1995-03-10
+<<<<<< end thread : 1995-05-12
+<<<<<< end thread : 1995-03-31
+<<<<<< end thread : 1995-04-21
+<<<<<< end thread : 1995-05-05
+<<<<<< end thread : 1995-04-28
+<<<<<< end thread : 1995-04-07
+mysql connection pool created
+start thread : 1995-05-19 >>>>>>
+start thread : 1995-05-26 >>>>>>
+start thread : 1995-06-02 >>>>>>
+start thread : 1995-06-09 >>>>>>
+start thread : 1995-06-16 >>>>>>
+start thread : 1995-06-23 >>>>>>
+start thread : 1995-06-30 >>>>>>
+start thread : 1995-07-07 >>>>>>
+start thread : 1995-07-14 >>>>>>
+start thread : 1995-07-21 >>>>>>
+661
+1035
+<<<<<< end thread : 1995-07-21
+944
+1348
+<<<<<< end thread : 1995-06-16
+1316
+1232
+1155
+1970
+<<<<<< end thread : 1995-06-23
+<<<<<< end thread : 1995-06-09
+1570
+1802
+<<<<<< end thread : 1995-07-14
+<<<<<< end thread : 1995-06-02
+<<<<<< end thread : 1995-07-07
+<<<<<< end thread : 1995-05-19
+<<<<<< end thread : 1995-06-30
+<<<<<< end thread : 1995-05-26
+mysql connection pool created
+start thread : 1995-07-28 >>>>>>
+start thread : 1995-08-04 >>>>>>
+start thread : 1995-08-11 >>>>>>
+start thread : 1995-08-18 >>>>>>
+start thread : 1995-08-25 >>>>>>
+start thread : 1995-09-01 >>>>>>
+start thread : 1995-09-08 >>>>>>
+start thread : 1995-09-15 >>>>>>
+start thread : 1995-09-22 >>>>>>
+start thread : 1995-09-29 >>>>>>
+1177
+1144
+966
+1343
+1198
+1570
+2012
+1512
+<<<<<< end thread : 1995-08-18
+<<<<<< end thread : 1995-08-04
+<<<<<< end thread : 1995-08-11
+1827
+<<<<<< end thread : 1995-07-28
+2304
+<<<<<< end thread : 1995-08-25
+<<<<<< end thread : 1995-09-01
+<<<<<< end thread : 1995-09-15
+<<<<<< end thread : 1995-09-22
+<<<<<< end thread : 1995-09-29
+<<<<<< end thread : 1995-09-08
+mysql connection pool created
+start thread : 1995-10-06 >>>>>>
+start thread : 1995-10-13 >>>>>>
+start thread : 1995-10-20 >>>>>>
+start thread : 1995-10-27 >>>>>>
+start thread : 1995-11-03 >>>>>>
+start thread : 1995-11-10 >>>>>>
+start thread : 1995-11-17 >>>>>>
+start thread : 1995-11-24 >>>>>>
+start thread : 1995-12-01 >>>>>>
+start thread : 1995-12-08 >>>>>>
+1465
+1042
+1308
+871
+1829
+1211
+1421
+1743
+<<<<<< end thread : 1995-11-24
+1959
+<<<<<< end thread : 1995-11-10
+2002
+<<<<<< end thread : 1995-12-01
+<<<<<< end thread : 1995-11-03
+<<<<<< end thread : 1995-12-08
+<<<<<< end thread : 1995-10-13
+<<<<<< end thread : 1995-11-17
+<<<<<< end thread : 1995-10-20
+<<<<<< end thread : 1995-10-27
+<<<<<< end thread : 1995-10-06
+mysql connection pool created
+start thread : 1995-12-15 >>>>>>
+start thread : 1995-12-22 >>>>>>
+start thread : 1995-12-29 >>>>>>
+start thread : 1996-01-05 >>>>>>
+start thread : 1996-01-12 >>>>>>
+start thread : 1996-01-19 >>>>>>
+start thread : 1996-01-26 >>>>>>
+start thread : 1996-02-02 >>>>>>
+start thread : 1996-02-09 >>>>>>
+start thread : 1996-02-16 >>>>>>
+1024
+984
+1501
+1204
+1343
+1943
+1475
+1672
+1763
+<<<<<< end thread : 1996-01-19
+<<<<<< end thread : 1996-01-05
+<<<<<< end thread : 1996-02-02
+<<<<<< end thread : 1996-01-12
+<<<<<< end thread : 1996-02-09
+<<<<<< end thread : 1996-01-26
+<<<<<< end thread : 1996-02-16
+<<<<<< end thread : 1995-12-22
+<<<<<< end thread : 1995-12-15
+11066
+<<<<<< end thread : 1995-12-29
+mysql connection pool created
+start thread : 1996-02-23 >>>>>>
+start thread : 1996-03-01 >>>>>>
+start thread : 1996-03-08 >>>>>>
+start thread : 1996-03-15 >>>>>>
+start thread : 1996-03-22 >>>>>>
+start thread : 1996-03-29 >>>>>>
+start thread : 1996-04-05 >>>>>>
+start thread : 1996-04-12 >>>>>>
+start thread : 1996-04-19 >>>>>>
+start thread : 1996-04-26 >>>>>>
+1073
+1364
+972
+1536
+1275
+1319
+1358
+<<<<<< end thread : 1996-03-15
+1473
+1979
+<<<<<< end thread : 1996-04-05
+<<<<<< end thread : 1996-03-22
+1428
+<<<<<< end thread : 1996-02-23
+<<<<<< end thread : 1996-04-19
+<<<<<< end thread : 1996-03-08
+<<<<<< end thread : 1996-04-12
+<<<<<< end thread : 1996-04-26
+<<<<<< end thread : 1996-03-29
+<<<<<< end thread : 1996-03-01
+mysql connection pool created
+start thread : 1996-05-03 >>>>>>
+start thread : 1996-05-10 >>>>>>
+start thread : 1996-05-17 >>>>>>
+start thread : 1996-05-24 >>>>>>
+start thread : 1996-05-31 >>>>>>
+start thread : 1996-06-07 >>>>>>
+start thread : 1996-06-14 >>>>>>
+start thread : 1996-06-21 >>>>>>
+start thread : 1996-06-28 >>>>>>
+start thread : 1996-07-05 >>>>>>
+706
+1259
+<<<<<< end thread : 1996-07-05
+1372
+1033
+1451
+1096
+1270
+1893
+<<<<<< end thread : 1996-05-03
+1275
+1389
+<<<<<< end thread : 1996-06-07
+<<<<<< end thread : 1996-06-14
+<<<<<< end thread : 1996-05-10
+<<<<<< end thread : 1996-05-24
+<<<<<< end thread : 1996-05-17
+<<<<<< end thread : 1996-06-28
+<<<<<< end thread : 1996-05-31
+<<<<<< end thread : 1996-06-21
+mysql connection pool created
+start thread : 1996-07-12 >>>>>>
+start thread : 1996-07-19 >>>>>>
+start thread : 1996-07-26 >>>>>>
+start thread : 1996-08-02 >>>>>>
+start thread : 1996-08-09 >>>>>>
+start thread : 1996-08-16 >>>>>>
+start thread : 1996-08-23 >>>>>>
+start thread : 1996-08-30 >>>>>>
+start thread : 1996-09-06 >>>>>>
+start thread : 1996-09-13 >>>>>>
+704
+<<<<<< end thread : 1996-07-19
+1209
+823
+1344
+<<<<<< end thread : 1996-07-26
+1179
+1709
+1910
+1163
+1444
+<<<<<< end thread : 1996-08-16
+2315
+<<<<<< end thread : 1996-08-02
+<<<<<< end thread : 1996-07-12
+<<<<<< end thread : 1996-08-09
+<<<<<< end thread : 1996-09-13
+<<<<<< end thread : 1996-08-30
+<<<<<< end thread : 1996-08-23
+<<<<<< end thread : 1996-09-06
+mysql connection pool created
+start thread : 1996-09-20 >>>>>>
+start thread : 1996-09-27 >>>>>>
+start thread : 1996-10-04 >>>>>>
+start thread : 1996-10-11 >>>>>>
+start thread : 1996-10-18 >>>>>>
+start thread : 1996-10-25 >>>>>>
+start thread : 1996-11-01 >>>>>>
+start thread : 1996-11-08 >>>>>>
+start thread : 1996-11-15 >>>>>>
+start thread : 1996-11-22 >>>>>>
+1404
+1744
+1319
+<<<<<< end thread : 1996-11-22
+1860
+1795
+1947
+1709
+1895
+1699
+2231
+<<<<<< end thread : 1996-09-20
+<<<<<< end thread : 1996-10-11
+<<<<<< end thread : 1996-11-15
+<<<<<< end thread : 1996-10-18
+<<<<<< end thread : 1996-10-25
+<<<<<< end thread : 1996-09-27
+<<<<<< end thread : 1996-11-01
+<<<<<< end thread : 1996-10-04
+<<<<<< end thread : 1996-11-08
+mysql connection pool created
+start thread : 1996-11-29 >>>>>>
+start thread : 1996-12-06 >>>>>>
+start thread : 1996-12-13 >>>>>>
+start thread : 1996-12-20 >>>>>>
+start thread : 1996-12-27 >>>>>>
+start thread : 1997-01-03 >>>>>>
+start thread : 1997-01-10 >>>>>>
+start thread : 1997-01-17 >>>>>>
+start thread : 1997-01-24 >>>>>>
+start thread : 1997-01-31 >>>>>>
+1090
+1458
+1743
+<<<<<< end thread : 1997-01-24
+1834
+1711
+1118
+2358
+1295
+1500
+<<<<<< end thread : 1997-01-17
+<<<<<< end thread : 1997-01-03
+<<<<<< end thread : 1996-12-13
+<<<<<< end thread : 1996-12-06
+<<<<<< end thread : 1997-01-31
+<<<<<< end thread : 1997-01-10
+<<<<<< end thread : 1996-11-29
+<<<<<< end thread : 1996-12-20
+13000
+<<<<<< end thread : 1996-12-27
+mysql connection pool created
+start thread : 1997-02-07 >>>>>>
+start thread : 1997-02-14 >>>>>>
+start thread : 1997-02-21 >>>>>>
+start thread : 1997-02-28 >>>>>>
+start thread : 1997-03-07 >>>>>>
+start thread : 1997-03-14 >>>>>>
+start thread : 1997-03-21 >>>>>>
+start thread : 1997-03-28 >>>>>>
+start thread : 1997-04-04 >>>>>>
+start thread : 1997-04-11 >>>>>>
+1192
+1173
+1309
+1362
+<<<<<< end thread : 1997-03-21
+1150
+1559
+1302
+1499
+1650
+<<<<<< end thread : 1997-02-21
+<<<<<< end thread : 1997-02-07
+1535
+<<<<<< end thread : 1997-04-04
+<<<<<< end thread : 1997-03-07
+<<<<<< end thread : 1997-03-14
+<<<<<< end thread : 1997-02-28
+<<<<<< end thread : 1997-04-11
+<<<<<< end thread : 1997-02-14
+<<<<<< end thread : 1997-03-28
+mysql connection pool created
+start thread : 1997-04-18 >>>>>>
+start thread : 1997-04-25 >>>>>>
+start thread : 1997-05-02 >>>>>>
+start thread : 1997-05-09 >>>>>>
+start thread : 1997-05-16 >>>>>>
+start thread : 1997-05-23 >>>>>>
+start thread : 1997-05-30 >>>>>>
+start thread : 1997-06-06 >>>>>>
+start thread : 1997-06-13 >>>>>>
+start thread : 1997-06-20 >>>>>>
+1111
+855
+1194
+1647
+<<<<<< end thread : 1997-05-16
+<<<<<< end thread : 1997-05-23
+1471
+1551
+1575
+1563
+1522
+<<<<<< end thread : 1997-06-13
+1710
+<<<<<< end thread : 1997-05-09
+<<<<<< end thread : 1997-04-18
+<<<<<< end thread : 1997-04-25
+<<<<<< end thread : 1997-05-02
+<<<<<< end thread : 1997-06-20
+<<<<<< end thread : 1997-06-06
+<<<<<< end thread : 1997-05-30
