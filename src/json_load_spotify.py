@@ -8,27 +8,30 @@ from threading import Thread
 from mysql.connector.pooling import MySQLConnectionPool
 
 
-#
-def make_movieList(conn, start_date, end_date):
-    cursor = conn.cursor()
+def thread_all(token, movie_dump):
+    threads = []
+    for movie_list in movie_dump:
+        thread = Thread(target=thread_single, args=(token, movie_list))
+        threads.append(thread)
+        thread.start()
+    
+    for thread in threads:
+        thread.join()
 
-    QUERY = f"SELECT * from movie where date_gte>'{start_date}' and date_gte<'{end_date}' "
-    cursor.execute(QUERY)
-    movie_list = cursor.fetchall()
-    return movie_list
 
-#
+# need to do until 64
 if __name__ == "__main__":
-    conn = mysql_connector()
 
     movie_dump = []
-    for i in range(19):
-        movie_list = make_movieList(conn, f'{i*5+1960}-01-01', f'{(i+1)*5+1960}-01-01')
+    for i in range(5):
+        conn = mysql_connector()
+        movie_list = make_movieList(conn, f'{i+1960}-01-01', f'{(i+1)+1960}-01-01')
         movie_dump.append(movie_list)
+        conn.close()
 
-    f
-
-    # token = make_accessToken()
+    token = make_accessToken()
+    thread_all(token, movie_dump)
+    
 
 
 

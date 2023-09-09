@@ -20,7 +20,7 @@ def make_dateList(date, days, limit):
 
     return date_list
 
-def threadjob(KEY, date):
+def thread_job(KEY, date):
     conn = pool.get_connection()
     try:
         thread_single(KEY, conn, date)
@@ -32,7 +32,7 @@ def threadjob(KEY, date):
 def thread_all(KEY, date_list):
     threads = []
     for date in date_list:
-        thread = Thread(target=threadjob, args=(KEY, date))
+        thread = Thread(target=thread_job, args=(KEY, date))
         threads.append(thread)
         thread.start()
     
