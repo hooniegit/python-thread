@@ -75,5 +75,5 @@ def thread_single(token, movie_list):
         time.sleep(0.5)
 
     print(f"<<<<<< end thread")
-    with open(f"/home/hooniegit/git/personal/python-thread-pool/DONE/spotify/{date_gte}", "w") as file:
+    with open(f"/home/hooniegit/DONE/spotify/{date_gte}", "w") as file:
         pass
