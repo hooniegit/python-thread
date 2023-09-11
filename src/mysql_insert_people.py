@@ -2,7 +2,7 @@ import sys
 sys.path.append("/home/hooniegit/git/personal/python-thread-pool/lib")
 
 from mysql_lib import *
-from tmdb_lib import *
+from tmdb_mysql_thread import *
 from datetime import datetime, timedelta
 from threading import Thread
 from mysql.connector.pooling import MySQLConnectionPool

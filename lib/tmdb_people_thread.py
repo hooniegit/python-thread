@@ -1,15 +1,18 @@
 
-# get_keys()
-def get_keys():
+# get_keys(1)
+# get_keys(2)
+# get_keys(3)
+# get_keys(4)
+# get_keys(5)
+def get_keys(cnt):
     from configparser import ConfigParser
 
     parser = ConfigParser()
-    parser.read('/home/hooniegit/git/personal/python-thread-pool/config/config.ini')
-    KEY = parser.get("TMDB", "API_KEY")
+    parser.read('/home/hooniegit/config/config.ini')
+    KEY = parser.get("TMDB", f"API_KEY_{cnt}")
 
     return KEY
     
-# make_peopleList(key, conn, 'YYYY-mm-dd')
 def make_peopleList(key, conn, date):
     cursor = conn.cursor()
 
@@ -25,7 +28,6 @@ def make_peopleList(key, conn, date):
 
     return people_list
 
-# insert_people(conn, people_list, 'YYYY-mm-dd)
 def load_json(KEY, conn, people_list, date):
     import json
     import time
@@ -55,7 +57,6 @@ def load_json(KEY, conn, people_list, date):
         
         # time.sleep(1)
 
-# thread(KEY, conn, date)
 def thread_single(KEY, conn, date):
     print(f"start thread : {date} >>>>>>")
     people_list = make_peopleList(KEY, conn, date)
