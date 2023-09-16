@@ -1,2 +1,2 @@
 # python-thread-pool
-demo
+repository for python-thread-pool practice
