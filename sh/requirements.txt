@@ -1,3 +1,0 @@
-mysql-connector
-psutil
-logmaker
