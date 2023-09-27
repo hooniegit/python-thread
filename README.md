@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔬 Intro
 python thread에 대한 이해를 목적으로 python 환경에서 multi-thread 생성 및 활용을 실습합니다.
 
@@ -49,7 +48,3 @@ def thread_all(s3_client):
 1. This repository runs in python3.10
 2. `/src/aws_s3` 이하의 모든 스크립트는 AWS s3 접속을 위한 key 정보를 포함하고 있습니다.
 해당 레포지토리에서는 AWS와 관련된 내용에 대해서는 다루지 않습니다. 이 점을 참조 부탁드립니다.
-=======
-# python-thread-pool
-repository for python-thread-pool practice
->>>>>>> f360621df03f1686d554891e7202d0abb9564d92
